@@ -16,7 +16,7 @@ Communicates via TCP command strings on port 2202.
 2. Clone or symlink this module into that folder:
    ```
    # Clone
-   git clone <repo-url> ~/companion-module-dev/companion-module-shure-ani4in
+   git clone https://github.com/sqkysqnt/companion-module-shure-ani4in ~/companion-module-dev/companion-module-shure-ani4in
 
    # Or symlink from an existing checkout
    ln -s /path/to/ani4in_companion_module ~/companion-module-dev/companion-module-shure-ani4in
